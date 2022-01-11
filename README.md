@@ -1,3 +1,4 @@
-#3# ![repository-open-graph-template](https://user-images.githubusercontent.com/94058334/148927809-28e3e9d8-3fc9-4bce-b09c-d7df69ee7d25.png)
-#My first site
+![6345192_1600x1200](https://user-images.githubusercontent.com/94058334/148928342-e551e9e5-0cb2-4922-8415-95bd28484a65.jpg)
+# My first site
+
 want to put my thoughts 
